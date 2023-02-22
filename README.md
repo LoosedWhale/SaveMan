@@ -15,7 +15,7 @@ To use this program, you will need Python 3 and the following libraries installe
 -tkinter
 -PIL
 
-To run the program, simply execute the `SaveMan.py` file using the Python interpreter. The game will launch in a new window.
+To run the program, simply execute the `SaveManTK.py` file using the Python interpreter. The game will launch in a new window.
 
 ### How to play 
 
